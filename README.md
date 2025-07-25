@@ -15,13 +15,13 @@ Uma API RESTful simples desenvolvida com **FastAPI**, que permite:
 
 ## ✅ Funcionalidades
 
-- [x] Registro e login de usuários com senha criptografada
-- [x] Emissão de token JWT na autenticação
-- [x] Proteção de rotas com autenticação via `Bearer Token`
-- [x] CRUD de produtos
-- [x] Swagger UI com suporte automático a token
-- [x] Banco de dados PostgreSQL com SQLAlchemy (assíncrono)
-- [x] Deploy local com Docker
+- Registro e login de usuários com senha criptografada
+- Emissão de token JWT na autenticação
+- Proteção de rotas com autenticação via `Bearer Token`
+- CRUD de produtos
+- Swagger UI com suporte automático a token
+- Banco de dados PostgreSQL com SQLAlchemy (assíncrono)
+- Deploy local com Docker
 
 ---
 
